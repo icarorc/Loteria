@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: blue;
+    
+}
+
+.imagem {
+    width: 600px;
+    height: 300px;
+}
+
+footer {
+    color: darkkhaki;
+    font: Italic;
+}
+
+#aqui {
+    background: white;
+    width: 360px;
+    margin:auto;
+}
+
+#num {
+    width: 35px;
+}
+
+#res {
+    background:black;
+    color:yellowgreen;
+    padding:30px;
+    margin: auto;
+    width: 500px;
+}
